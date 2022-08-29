@@ -1,0 +1,6 @@
+LOCALNET_PRIVATE_KEY=''
+LUKSOL14_PRIVATE_KEY=''
+LUKSOL16_PRIVATE_KEY=''
+
+# Mnemonic test seed words
+MNEMONIC='test test test test test test test test test test test junk'

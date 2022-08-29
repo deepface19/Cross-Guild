@@ -1,0 +1,25 @@
+{
+  "name": "cross-guild",
+  "version": "1.0.0",
+  "description": "social recovery tools",
+  "keywords": [
+    "dapp",
+    "lukso",
+    "hardhat",
+    "react"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ],
+    "nohoist": [
+      "**/hardhat",
+      "**/hardhat/**"
+    ]
+  },  
+  "author": "deepface19",
+  "license": "MIT"
+}
