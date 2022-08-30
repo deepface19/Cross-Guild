@@ -7,7 +7,7 @@
 ### Email : kangadull19@gmail.com
 
 ## Concept 
-<img width="337" alt="concept crossbuild" src="https://user-images.githubusercontent.com/59292798/187372013-11860fc7-0435-4d9a-b033-f5a0e4df1315.png">
+![concept crossbuild](https://user-images.githubusercontent.com/59292798/187372013-11860fc7-0435-4d9a-b033-f5a0e4df1315.png)
 
 ## Technology used
 - [chakra-ui](https://chakra-ui.com/)
