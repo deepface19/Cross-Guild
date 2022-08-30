@@ -8,7 +8,7 @@
 
 ## [Demo Video](https://youtu.be/mBaL1DKdY0I)
 
-## [Demo Frontend](https://cross-guild.web.app)
+## [Beta Site Frontend](https://cross-guild.web.app)
 - we not yet configuring the backend may be 1-2 weeks to come
 - use Universal Profile Browser Ext and turn off your metamask
 
