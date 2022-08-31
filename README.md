@@ -19,6 +19,7 @@
 - [chakra-ui](https://chakra-ui.com/)
 - [wagmi](https://wagmi.sh/)
 - [Universal Profile Browser Extension](https://docs.lukso.tech/guides/browser-extension/install-browser-extension)
+- [LSP11BasicSocialRecovery](https://github.com/lukso-network/lsp-smart-contracts/tree/feat/SocialRecovery/contracts/LSP11BasicSocialRecovery) 
 - [@lukso/lsp-factory](https://docs.lukso.tech/tools/lsp-factoryjs/getting-started)
 - [@erc725/erc725.js](https://docs.lukso.tech/tools/erc725js/getting-started)
 - [ethers](https://ethers.org/)
