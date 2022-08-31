@@ -36,7 +36,13 @@ git clone https://github.com/deepface19/Cross-Guild.git
 ```
 cd packages/hardhat 
 yarn install
-yarn deploy:luksoL16 
+// for L16 lukso Testnet //
+yarn deploy:luksoL16
+
+or 
+
+// for L14 Lukso Testnet//
+yarn deploy:luksoL14 
 ```
 ##### Setup Frontend
 ```
