@@ -15,6 +15,12 @@
 ## Concept 
 ![concept crossbuild](https://user-images.githubusercontent.com/59292798/187372013-11860fc7-0435-4d9a-b033-f5a0e4df1315.png)
 
+## Description 
+- user create contract and add the 5 guardians address
+- after that the guardians will be controller the addresss user who create the contract
+- if user universal profile who made contract do transaction out, the contract will be notice the guardians to voting and validation the transaction
+- if user universal profile who madr contract di recovery and change the guardians address, the contract will be notice the guardians to voting and validation the transaction
+
 ## Technology used
 - [chakra-ui](https://chakra-ui.com/)
 - [wagmi](https://wagmi.sh/)
