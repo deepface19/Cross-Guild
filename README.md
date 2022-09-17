@@ -2,9 +2,9 @@
 ![crossguild](https://user-images.githubusercontent.com/59292798/187340881-8cd1263b-d3b9-402c-88e5-3433e457ce6c.jpg)
 
 ### Project Name : Cross Guild
-### Team Member : 1
-### Name : Deepface19
-### Email : kangadull19@gmail.com
+### Team Member : 3
+### Name : Deepface19, TheVanquiser, Fendiefc
+### Email : kangadull19@gmail.com, awangmerah19@gmail.com, fendiefc100@gmail.com
 
 ## [Demo Video](https://youtu.be/mBaL1DKdY0I)
 
