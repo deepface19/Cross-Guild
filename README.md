@@ -4,7 +4,6 @@
 ### Project Name : Cross Guild
 ### Team Member : 3
 ### Name : Deepface19, TheVanquiser, Fendiefc
-### Email : kangadull19@gmail.com, awangmerah19@gmail.com, fendiefc100@gmail.com
 
 ## [Demo Video](https://youtu.be/mBaL1DKdY0I)
 
